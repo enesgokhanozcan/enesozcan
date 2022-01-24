@@ -50,10 +50,10 @@ function Home() {
                             Hi, I'm Enes.
                         </Typography>
                         <Typography variant="h5" fontFamily='Mulish'>
-                            I have always been so curious about the whole software development cycle,
-                            from just an idea to the journey of bringing it to life. 
-                            Therefore I enjoy spending my time improving myself in 
-                            full stack development while mostly focusing on the frontend.
+                         Since my childhood, technology has been a part of my life and has always attracted my attention.
+                         Over time, this interest pushed me to learn software. Ever since I started learning software,
+                         I have loved doing this job more and more every day.Therefore I enjoy spending my time improving
+                         myself in full stack development.
                         </Typography>
                         <Typography variant="h4">
                             -------------------------------------------------
